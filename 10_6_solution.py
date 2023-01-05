@@ -8,7 +8,7 @@ anagrams.
 
 def anagram(s1,s2):
 
-    # Prerearing given fords to get all of them as lowercase without spases 
+    # Prerearing given words to get all of them as lowercase without spases 
     s1 = s1.replace(' ','').lower()
     s2 = s2.replace(' ','').lower()
 
